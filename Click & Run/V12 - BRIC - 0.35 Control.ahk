@@ -52,7 +52,7 @@ NavigationKey := "\"
 ;     SHAKE SETTINGS     ====================================================================================================;
 
 ; Change to "Navigation" or "Click"
-ShakeMode := "Click"
+ShakeMode := "Navigation"
 
 ; Seconds for shake minigame to be considered failed
 ShakeFailsafe := 15
